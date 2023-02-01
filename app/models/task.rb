@@ -10,4 +10,5 @@ class Task < ApplicationRecord
       return false
     end
   end
+
 end
